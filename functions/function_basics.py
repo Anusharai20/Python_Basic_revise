@@ -23,3 +23,11 @@ greet()
 
 # example  
 
+def greet():
+    print("Hello, I am Anusha Rai. I am currently learning Python Programming language ")
+    return
+greet()
+
+def welcome(name):
+    print(f"Hello, {name} Welcome to the world of Python Programming!")
+welcome("Anusha")
