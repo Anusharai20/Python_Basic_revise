@@ -87,10 +87,6 @@ My goal is to:
 
 Some practical assignments included in this repository:
 
-- Student Result Management System
-- ATM Simulation
-- Expense Tracker
-- Cafe Billing System
 - Library Management System
 - Mobile Recharge System
 - Electricity Bill Calculator
@@ -117,11 +113,11 @@ For each topic I aim to:
 - [x] Variables and Data Types
 - [x] Operators and Conditions
 - [x] Loops
-- [ ] Functions
-- [ ] Data Structures
-- [ ] File Handling
-- [ ] Object-Oriented Programming
-- [ ] Mini Projects
+- [x] Functions
+- [x] Data Structures
+- [x] File Handling
+- [x] Object-Oriented Programming
+- [x] Mini Projects
 
 ---
 
