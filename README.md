@@ -89,8 +89,8 @@ Some practical assignments included in this repository:
 
 - Library Management System
 - Mobile Recharge System
-- Electricity Bill Calculator
-
+- BMI Calculator
+  
 These projects help bridge the gap between theory and real-world applications.
 
 ---
