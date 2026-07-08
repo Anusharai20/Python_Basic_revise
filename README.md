@@ -83,7 +83,7 @@ My goal is to:
 
 ---
 
-## 💻 Real-World Practice Projects
+## 💻 Mini Projects
 
 Some practical assignments included in this repository:
 
